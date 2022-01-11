@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer and listen to music ♫
 
-#### Main Projects
+### Main Projects
  - [Kafka Node.js system](https://github.com/franciscopantojag/kafka-nodejs)
  - [Quiz App](https://github.com/franciscopantojag/quiz-app)
  - [Prom Manager](https://github.com/franciscopantojag/prom_manager)
@@ -38,8 +38,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br><br>
 
-:zap: GitHub Stats
-
+---
 <img align="left" alt="franciscopantojag's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=franciscopantojag&count_private=true&show_icons=true&hide=stars&theme=dark" />
 
 [website]: https://franciscopantojag.me
