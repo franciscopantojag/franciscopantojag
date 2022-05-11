@@ -1,4 +1,4 @@
-## Hi there, I'm <strong>[Francisco Pantoja](https://franciscopantojag.me/)</strong> 👋 
+## Hi there 👋, I'm <strong>[Francisco Pantoja](https://franciscopantojag.me/)</strong>
 
 ### Bachelor of Engineering, Software Developer
 
