@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm <strong>[Francisco Pantoja](https://franciscopantojag.me/)</strong>
 
-### Bachelor of Engineering, Software Developer
+### Software Engineer, Web Developer
 
 - 🌱 I’m currently learning about [Docker](https://www.docker.com/) 
 - 👯 I’m looking to collaborate with other developers
